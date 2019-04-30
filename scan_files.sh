@@ -15,7 +15,7 @@ for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
 	echo "WARNING: Ignore '.git' folder for $OUTPUT"
   else
   	echo "DIR: $path"
-  	echo "  <LI>$path</LI>" >> $OUTPUT
+  	echo "  <LI><b><a href='https://de.wikiversity.org/wiki/$path' target='_blank'>$path</a></b></LI>" >> $OUTPUT
   	echo "  <UL>" >> $OUTPUT
   	echo "Filepath: $filepath"
   	rm "${filepath}/.DS_Store"
