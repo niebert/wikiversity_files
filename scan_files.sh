@@ -4,8 +4,14 @@ ROOT=.
 HTTP="./"
 DOMAIN="https://de.wikiversity.org"
 OUTPUT="./index.html" 
-echo "<HTML>\n\t<HEAD>\n\t\t<TITLE>Wikiversity Files</TITLE>\n\t<BODY>" > $OUTPUT
+NOW=$(date +"%d.%m.%Y")
+echo "<HTML>\n\t<HEAD>\n\t\t<TITLE>Wikiversity Files</TITLE>" > $OUTPUT
+echo "\n<STYLE>" >> $OUTPUT
+echo "\n body { font-family: Helvetica, Arial, Geneva, sans-serif; }" >> $OUTPUT
+echo "\n</STYLE>" >> $OUTPUT
+echo "\n\t<BODY>" >> $OUTPUT
 echo "<H2>Wikiversity Files for Download</H2>" >> $OUTPUT
+echo "<H3>Last Update: ${NOW}</H3>" >> $OUTPUT
 echo "This file contains all additional files for learning resources in Wikiversity ${DOMAIN}." >> $OUTPUT
 echo "The name of the folder refers to the learning resources in Wikiversity e.g. <tt>Diffusion</tt> to ${DOMAIN}/wiki/Diffusion." >> $OUTPUT
 echo "Click on the folder displays the learning resources in Wikiversity for which the content was created." >> $OUTPUT
