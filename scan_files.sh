@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ROOT=.
+ROOT=./de
 HTTP="./"
 DOMAIN="https://de.wikiversity.org"
 OUTPUT="./index.html" 
@@ -17,6 +17,7 @@ echo "The name of the folder refers to the learning resources in Wikiversity e.g
 echo "Click on the folder displays the learning resources in Wikiversity for which the content was created." >> $OUTPUT
 i=0
 echo "<UL>" >> $OUTPUT
+DOMAIN="$DOMAIN_DE" 
 for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
   path=`basename "$filepath"`
   if [ "$path" = ".git" ]
@@ -41,6 +42,33 @@ for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
   	echo "  </UL>" >> $OUTPUT
   fi
 done
+DOMAIN="https://en.wikiversity.org"
+ROOT=./en
+for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
+  path=`basename "$filepath"`
+  if [ "$path" = ".git" ]
+	then
+	echo "WARNING: Ignore '.git' folder for $OUTPUT"
+  else
+  	echo "DIR: $path"
+  	echo "  <LI><b><a href='$DOMAIN/wiki/$path' target='_blank'>$path</a></b></LI>" >> $OUTPUT
+  	echo "  <UL>" >> $OUTPUT
+  	echo "Filepath: $filepath"
+  	rm "${filepath}/.DS_Store"
+  	for i in `find "$filepath" -maxdepth 1 -mindepth 1 -type f| sort`; do
+    	file=`basename "$i"`
+    	if [ "$file" = "index.html" ]
+			then
+			echo "- WARNING: Ignore self-reference to 'index.html' file for $OUTPUT"
+  		else
+    		echo "- FILE: $file"
+  			echo "    <LI><a href=\"$path/$file\">$file</a></LI>" >> $OUTPUT
+  		fi
+  	done
+  	echo "  </UL>" >> $OUTPUT
+  fi
+done
+
 echo "</UL>" >> $OUTPUT
 echo "</BODY>" >> $OUTPUT
 echo "</HTML>" >> $OUTPUT
