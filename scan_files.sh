@@ -77,5 +77,9 @@ done
 
 echo "</UL>" >> $OUTPUT
 echo "<HR>" >> $OUTPUT
+echo "<CENTER>" >> $OUTPUT
+echo "    <a href=\"https://www.github.com/niebert/wikiversity_files\">Wikiversity Support Files on GitHub (${NOW})</a>" >> $OUTPUT
+echo "</CENTER>" >> $OUTPUT
+echo "<HR>" >> $OUTPUT
 echo "</BODY>" >> $OUTPUT
 echo "</HTML>" >> $OUTPUT
