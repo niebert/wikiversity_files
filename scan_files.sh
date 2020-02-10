@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ROOT=./de
+DIR4LANGUAGE="de"
 HTTP="./"
 DOMAIN="https://de.wikiversity.org"
 OUTPUT="./index.html" 
@@ -20,6 +21,7 @@ i=0
 echo "<HR>" >> $OUTPUT
 echo "<UL>" >> $OUTPUT
 LANGUAGE="German - $DOMAIN"
+DIR4LANGUAGE="de"
 for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
   path=`basename "$filepath"`
   if [ "$path" = ".git" ]
@@ -38,7 +40,7 @@ for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
 			echo "- WARNING: Ignore self-reference to 'index.html' file for $OUTPUT"
   		else
     		echo "- FILE: $file"
-  			echo "    <LI><a href=\"$path/$file\">$file</a></LI>" >> $OUTPUT
+  			echo "    <LI><a href=\"$DIR4LANGUAGE/$path/$file\">$file</a></LI>" >> $OUTPUT
   		fi
   	done
   	echo "  </UL>" >> $OUTPUT
@@ -47,6 +49,7 @@ done
 DOMAIN="https://en.wikiversity.org"
 LANGUAGE="English - $DOMAIN"
 ROOT=./en
+DIR4LANGUAGE="en"
 for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
   path=`basename "$filepath"`
   if [ "$path" = ".git" ]
@@ -65,7 +68,7 @@ for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
 			echo "- WARNING: Ignore self-reference to 'index.html' file for $OUTPUT"
   		else
     		echo "- FILE: $file"
-  			echo "    <LI><a href=\"$path/$file\">$file</a></LI>" >> $OUTPUT
+  			echo "    <LI><a href=\"$DIR4LANGUAGE/$path/$file\">$file</a></LI>" >> $OUTPUT
   		fi
   	done
   	echo "  </UL>" >> $OUTPUT
