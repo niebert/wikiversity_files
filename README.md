@@ -4,6 +4,9 @@ This repository contains files as Learning Resources in Wikiversity.
 ## Browse Files
 You can browse the files with at [https://niebert.github.io/wikiversity_files/](https://niebert.github.io/wikiversity_files).
 
+## Download all Files as ZIP
+You can download all [files in this repository as ZIP](https://github.com/niebert/wikiversity_files/archive/master.zip) with the URL: https://github.com/niebert/wikiversity_files/archive/master.zip
+
 ## scan_files.sh
 The Linux script `scan_files.sh` scans all subdirectories of the repository folder and collects all files and creates an `index.html`.
 
