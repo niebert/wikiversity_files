@@ -14,3 +14,5 @@ The output of the script `scan_files.sh` is HTML-file `index.html`. The header o
 
 ## Contributions
 * Sebastian Staib (2019/06/27) Diffusion with moving objects in `diffusion` implemented. File: [Diffusion_Tabellen_v5_objekte_dynamisch.ods](https://niebert.github.io/wikiversity_files/)
+* WikiCommons (2020/04/01) [`Gnome_stock_person.svg`](https://commons.wikimedia.org/wiki/File:Gnome-stock_person.svg) - An icon from the GNOME-icon-theme  used for Wikiversity Learning Resource [2D Animation](https://en.wikiversity.org/wiki/2D_Animation)
+* WikiCommons (2020/04/01) [`Red_merge_arrow.svg`](https://commons.wikimedia.org/wiki/File:Red_merge_arrow.svg) - red arrow SVG format - used for Wikiversity Learning Resource [2D Animation](https://en.wikiversity.org/wiki/2D_Animation)
