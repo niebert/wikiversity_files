@@ -1,0 +1,37 @@
+
+
+<!-- Created with CSV2WikiChart - URL: https://niebert.github.io/csv2wikichart_app -->
+|type=line
+<!--   Attribute 'type' has value 'line' in output format 'mediawiki' -->
+|linewidth=2
+<!--   Attribute 'interpolate' has value 'line' with thinin output format 'mediawiki' -->
+|showSymbols=1
+<!-- Width and Height of the rendered image in Wikiversity, Wikipedia, ... -->
+|width=600
+|height=480
+<!-- Header of the Legend -->
+|legend=Legende
+<!--   Attribute 'colorpalette' has value 'default' in CSV2WikiChart
+       therefore the curves use the default colors of the Chart template  -->
+<!-- Define the properties of the x-axis -->
+|xAxisTitle=Tage
+|xAxisAngle=0
+<!-- Define the properties of the y-axis -->
+|yAxisTitle=y-Values
+<!-- Define CSV Data into the Graph-->
+<!-- Column List 'x': 'Tage' with color of line: '#1f77b4' -->
+<!-- Data 'Tage':  -14  -13  -12  -11  -10  -9  -8  -7  -6  -5  -4  -3  -2  -1  0  -->
+|xTitle=Tage
+|x= -14,-13,-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0
+<!-- Column List 'y1': 'Wahrscheinlichkeit1' with color of line: '#ff7f0e' -->
+<!-- Data 'Wahrscheinlichkeit1':  0.074074074074074  0.148148148148148  0.111111111111111  0.296296296296296  0.222222222222222  0.111111111111111  0.037037037037037  0  0  0  0  0  0  0  0  -->
+|y1Title=Wahrscheinlichkeit1
+|y1= 0.074074074074074,0.148148148148148,0.111111111111111,0.296296296296296,0.222222222222222,0.111111111111111,0.037037037037037,0,0,0,0,0,0,0,0
+<!-- Column List 'y2': 'Wahrescheinlichkeit2' with color of line: '#2ca02c' -->
+<!-- Data 'Wahrescheinlichkeit2':  0.032948929159802  0.065897858319605  0.115321252059308  0.131795716639209  0.14827018121911  0.156507413509061  0.156507413509061  0.131795716639209  0.041186161449753  0.016474464579901  0.00329489291598  0  0  0  0  -->
+|y2Title=Wahrescheinlichkeit2
+|y2= 0.032948929159802,0.065897858319605,0.115321252059308,0.131795716639209,0.14827018121911,0.156507413509061,0.156507413509061,0.131795716639209,0.041186161449753,0.016474464579901,0.00329489291598,0,0,0,0
+<!-- Column List 'y3': 'Wahrescheinlichkeit3' with color of line: '#d62728' -->
+<!-- Data 'Wahrescheinlichkeit3':  0  0.109170305676856  0.207423580786026  0.196506550218341  0.174672489082969  0.109170305676856  0.087336244541485  0.065502183406114  0.021834061135371  0.017467248908297  0.006550218340611  0.004366812227074  0  0  0  -->
+|y3Title=Wahrescheinlichkeit3
+|y3= 0,0.109170305676856,0.207423580786026,0.196506550218341,0.174672489082969,0.109170305676856,0.087336244541485,0.065502183406114,0.021834061135371,0.017467248908297,0.006550218340611,0.004366812227074,0,0,0
