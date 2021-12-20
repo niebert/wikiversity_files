@@ -1,0 +1,37 @@
+{{Graph:Chart
+
+
+<!-- Created with CSV2WikiChart - URL: https://niebert.github.io/csv2wikichart_app -->
+|type=line
+<!--   Attribute 'type' has value 'line' in output format 'mediawiki' -->
+|linewidth=2
+<!--   Attribute 'interpolate' has value 'line' with thinin output format 'mediawiki' -->
+|showSymbols=3
+<!-- Width and Height of the rendered image in Wikiversity, Wikipedia, ... -->
+|width=600
+|height=480
+<!-- Header of the Legend -->
+|legend=Legende
+<!--   Attribute 'colorpalette' has value 'default' in CSV2WikiChart
+       therefore the curves use the default colors of the Chart template
+       user defined colors "#1f77b4,#ff7f0e"  are not used with the "colors=" parameter -->
+<!-- Define the properties of the x-axis -->
+|xAxisTitle=Monat
+|xAxisAngle=0
+<!-- Define the properties of the y-axis -->
+|yAxisTitle=Water Temperature
+<!-- Define CSV Data into the Graph-->
+<!-- Column List 'x': 'Month' with color of line: '#000000' -->
+<!-- Data 'Month':  1  2  3  4  5  6  7  8  9  10  11  12  -->
+|xTitle=Month
+|x= 1,2,3,4,5,6,7,8,9,10,11,12
+<!-- Column List 'y1': 'River 1' with color of line: '#1f77b4' -->
+<!-- Data 'River 1':  100  2.3  5.2  7.4  13.4  15.9  14.4  18.3  9.4  4.1  5.3  3.3  -->
+|y1Title=River 1
+|y1= 100,2.3,5.2,7.4,13.4,15.9,14.4,18.3,9.4,4.1,5.3,3.3
+<!-- Column List 'y2': 'River 2' with color of line: '#ff7f0e' -->
+<!-- Data 'River 2':  15  13.4  11.2  13.4  15.4  19  14  19.3  14.4  12.7  9.5  9  -->
+|y2Title=River 2
+|y2= 15,13.4,11.2,13.4,15.4,19,14,19.3,14.4,12.7,9.5,9
+
+}}

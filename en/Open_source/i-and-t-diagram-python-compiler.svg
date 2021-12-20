@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="185.01mm" height="123.66mm" viewBox="1400 1208 18501 12366" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="Liberation Sans embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1852" descent="423"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+  </font>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template-57354" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template-10146" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10132" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10007" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template-10004" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template-9679" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template-8226" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template-8211" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+  <g id="bullet-char-template-61548" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 173,740 C 173,903 231,1043 346,1159 462,1274 601,1332 765,1332 928,1332 1067,1274 1183,1159 1299,1043 1357,903 1357,740 1357,577 1299,437 1183,322 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"/>
+  </g>
+ </defs>
+ <g class="Page">
+  <g class="com.sun.star.drawing.CustomShape">
+   <g id="id3">
+    <rect class="BoundingBox" stroke="none" fill="none" x="1850" y="1208" width="2301" height="4642"/>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 3000,5799 L 1900,5799 1900,1258 4100,1258 4100,5799 3000,5799 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="100" stroke-linejoin="round" d="M 3000,5799 L 1900,5799 1900,1258 4100,1258 4100,5799 3000,5799 Z"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="2013" y="2327"><tspan fill="rgb(0,0,0)" stroke="none">Python</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="2384" y="5171"><tspan fill="rgb(0,0,0)" stroke="none">BC1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.CustomShape">
+   <g id="id4">
+    <rect class="BoundingBox" stroke="none" fill="none" x="3799" y="5840" width="304" height="304"/>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 4101,5992 C 4101,6018 4094,6044 4081,6067 4068,6090 4049,6109 4026,6122 4003,6135 3977,6142 3951,6142 3924,6142 3898,6135 3875,6122 3852,6109 3833,6090 3820,6067 3807,6044 3800,6018 3800,5992 3800,5965 3807,5939 3820,5916 3833,5893 3852,5874 3875,5861 3898,5848 3924,5841 3951,5841 3977,5841 4003,5848 4026,5861 4049,5874 4068,5893 4081,5916 4094,5939 4101,5965 4101,5992 L 4101,5992 Z"/>
+    <path fill="none" stroke="rgb(255,255,255)" d="M 4101,5992 C 4101,6018 4094,6044 4081,6067 4068,6090 4049,6109 4026,6122 4003,6135 3977,6142 3951,6142 3924,6142 3898,6135 3875,6122 3852,6109 3833,6090 3820,6067 3807,6044 3800,6018 3800,5992 3800,5965 3807,5939 3820,5916 3833,5893 3852,5874 3875,5861 3898,5848 3924,5841 3951,5841 3977,5841 4003,5848 4026,5861 4049,5874 4068,5893 4081,5916 4094,5939 4101,5965 4101,5992 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id5">
+    <rect class="BoundingBox" stroke="none" fill="none" x="1400" y="6337" width="5501" height="2385"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1650" y="7038"><tspan fill="rgb(0,0,0)" stroke="none">Interpreter</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.CustomShape">
+   <g id="id6">
+    <rect class="BoundingBox" stroke="none" fill="none" x="7050" y="1350" width="2301" height="2601"/>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 8200,3900 L 7100,3900 7100,1400 9300,1400 9300,3900 8200,3900 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="100" stroke-linejoin="round" d="M 8200,3900 L 7100,3900 7100,1400 9300,1400 9300,3900 8200,3900 Z"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7584" y="2871"><tspan fill="rgb(0,0,0)" stroke="none">BC1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.CustomShape">
+   <g id="id7">
+    <rect class="BoundingBox" stroke="none" fill="none" x="7250" y="1550" width="1901" height="2201"/>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 8200,3700 L 7300,3700 7300,1600 9100,1600 9100,3700 8200,3700 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="100" stroke-linejoin="round" d="M 8200,3700 L 7300,3700 7300,1600 9100,1600 9100,3700 8200,3700 Z"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7584" y="2871"><tspan fill="rgb(0,0,0)" stroke="none">BC1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.CustomShape">
+   <g id="id8">
+    <rect class="BoundingBox" stroke="none" fill="none" x="9699" y="1299" width="304" height="304"/>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 10001,1451 C 10001,1477 9994,1503 9981,1526 9968,1549 9949,1568 9926,1581 9903,1594 9877,1601 9851,1601 9824,1601 9798,1594 9775,1581 9752,1568 9733,1549 9720,1526 9707,1503 9700,1477 9700,1451 9700,1424 9707,1398 9720,1375 9733,1352 9752,1333 9775,1320 9798,1307 9824,1300 9851,1300 9877,1300 9903,1307 9926,1320 9949,1333 9968,1352 9981,1375 9994,1398 10001,1424 10001,1451 L 10001,1451 Z"/>
+    <path fill="none" stroke="rgb(255,255,255)" d="M 10001,1451 C 10001,1477 9994,1503 9981,1526 9968,1549 9949,1568 9926,1581 9903,1594 9877,1601 9851,1601 9824,1601 9798,1594 9775,1581 9752,1568 9733,1549 9720,1526 9707,1503 9700,1477 9700,1451 9700,1424 9707,1398 9720,1375 9733,1352 9752,1333 9775,1320 9798,1307 9824,1300 9851,1300 9877,1300 9903,1307 9926,1320 9949,1333 9968,1352 9981,1375 9994,1398 10001,1424 10001,1451 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id9">
+    <rect class="BoundingBox" stroke="none" fill="none" x="6200" y="5016" width="5501" height="2385"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="6450" y="5717"><tspan fill="rgb(0,0,0)" stroke="none">  </tspan><tspan fill="rgb(0,0,0)" stroke="none">Hardware</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="6450" y="6428"><tspan fill="rgb(0,0,0)" stroke="none">for byte code</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="6450" y="7139"><tspan fill="rgb(0,0,0)" stroke="none">     </tspan><tspan fill="rgb(0,0,0)" stroke="none">BC1   </tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="Group">
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id10">
+     <rect class="BoundingBox" stroke="none" fill="none" x="3641" y="12897" width="2376" height="86"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 3682,12938 L 5975,12941"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id11">
+     <rect class="BoundingBox" stroke="none" fill="none" x="1605" y="10997" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 3746,11038 L 1646,11038"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id12">
+     <rect class="BoundingBox" stroke="none" fill="none" x="3699" y="10955" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 3740,10996 L 3740,12896"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id13">
+     <rect class="BoundingBox" stroke="none" fill="none" x="5877" y="10948" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 5918,10989 L 5918,12889"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id14">
+     <rect class="BoundingBox" stroke="none" fill="none" x="1598" y="9184" width="90" height="1950"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 1639,9225 L 1646,11092"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id15">
+     <rect class="BoundingBox" stroke="none" fill="none" x="5905" y="10997" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 8046,11038 L 5946,11038"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id16">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8005" y="9148" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 8046,9189 L 8046,11089"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id17">
+     <rect class="BoundingBox" stroke="none" fill="none" x="1552" y="9190" width="6494" height="92"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 8004,9240 L 1593,9231"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id18">
+     <rect class="BoundingBox" stroke="none" fill="none" x="3642" y="12897" width="2376" height="86"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 3683,12938 L 5976,12941"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id19">
+     <rect class="BoundingBox" stroke="none" fill="none" x="1606" y="10997" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 3747,11038 L 1647,11038"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id20">
+     <rect class="BoundingBox" stroke="none" fill="none" x="3700" y="10955" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 3741,10996 L 3741,12896"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id21">
+     <rect class="BoundingBox" stroke="none" fill="none" x="5878" y="10948" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 5919,10989 L 5919,12889"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id22">
+     <rect class="BoundingBox" stroke="none" fill="none" x="1599" y="9184" width="90" height="1950"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 1640,9225 L 1647,11092"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id23">
+     <rect class="BoundingBox" stroke="none" fill="none" x="5906" y="10997" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 8047,11038 L 5947,11038"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id24">
+     <rect class="BoundingBox" stroke="none" fill="none" x="8006" y="9148" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 8047,9189 L 8047,11089"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id25">
+     <rect class="BoundingBox" stroke="none" fill="none" x="1553" y="9190" width="6494" height="92"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 8005,9240 L 1594,9231"/>
+    </g>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id26">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13500" y="3900" width="2542" height="1774"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="13750" y="4601"><tspan fill="rgb(0,0,0)" stroke="none">Python</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id27">
+    <rect class="BoundingBox" stroke="none" fill="none" x="1914" y="9792" width="2476" height="964"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="2164" y="10493"><tspan fill="rgb(0,0,0)" stroke="none">C++</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id28">
+    <rect class="BoundingBox" stroke="none" fill="none" x="5631" y="9666" width="2476" height="964"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="5881" y="10367"><tspan fill="rgb(0,0,0)" stroke="none">   </tspan><tspan fill="rgb(0,0,0)" stroke="none">BC1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.CustomShape">
+   <g id="id29">
+    <rect class="BoundingBox" stroke="none" fill="none" x="4361" y="9615" width="1107" height="1075"/>
+    <path fill="rgb(114,159,207)" stroke="none" d="M 5466,10152 L 4362,10688 4362,9616 5466,10152 Z"/>
+    <path fill="none" stroke="rgb(52,101,164)" d="M 5466,10152 L 4362,10688 4362,9616 5466,10152 Z"/>
+   </g>
+  </g>
+  <g class="Group">
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id30">
+     <rect class="BoundingBox" stroke="none" fill="none" x="13535" y="5108" width="2376" height="86"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 13576,5149 L 15869,5152"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id31">
+     <rect class="BoundingBox" stroke="none" fill="none" x="11499" y="3208" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 13640,3249 L 11540,3249"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id32">
+     <rect class="BoundingBox" stroke="none" fill="none" x="13593" y="3166" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 13634,3207 L 13634,5107"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id33">
+     <rect class="BoundingBox" stroke="none" fill="none" x="15771" y="3159" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 15812,3200 L 15812,5100"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id34">
+     <rect class="BoundingBox" stroke="none" fill="none" x="11492" y="1395" width="90" height="1950"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 11533,1436 L 11540,3303"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id35">
+     <rect class="BoundingBox" stroke="none" fill="none" x="15799" y="3208" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 17940,3249 L 15840,3249"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id36">
+     <rect class="BoundingBox" stroke="none" fill="none" x="17899" y="1359" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 17940,1400 L 17940,3300"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id37">
+     <rect class="BoundingBox" stroke="none" fill="none" x="11446" y="1401" width="6494" height="92"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 17898,1451 L 11487,1442"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id38">
+     <rect class="BoundingBox" stroke="none" fill="none" x="13536" y="5108" width="2376" height="86"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 13577,5149 L 15870,5152"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id39">
+     <rect class="BoundingBox" stroke="none" fill="none" x="11500" y="3208" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 13641,3249 L 11541,3249"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id40">
+     <rect class="BoundingBox" stroke="none" fill="none" x="13594" y="3166" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 13635,3207 L 13635,5107"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id41">
+     <rect class="BoundingBox" stroke="none" fill="none" x="15772" y="3159" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 15813,3200 L 15813,5100"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id42">
+     <rect class="BoundingBox" stroke="none" fill="none" x="11493" y="1395" width="90" height="1950"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 11534,1436 L 11541,3303"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id43">
+     <rect class="BoundingBox" stroke="none" fill="none" x="15800" y="3208" width="2183" height="83"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 17941,3249 L 15841,3249"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id44">
+     <rect class="BoundingBox" stroke="none" fill="none" x="17900" y="1359" width="83" height="1983"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 17941,1400 L 17941,3300"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.LineShape">
+    <g id="id45">
+     <rect class="BoundingBox" stroke="none" fill="none" x="11447" y="1401" width="6494" height="92"/>
+     <path fill="none" stroke="rgb(0,0,0)" stroke-width="81" stroke-linejoin="round" d="M 17899,1451 L 11488,1442"/>
+    </g>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id46">
+    <rect class="BoundingBox" stroke="none" fill="none" x="11808" y="2003" width="2476" height="964"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="12058" y="2704"><tspan fill="rgb(0,0,0)" stroke="none">C++</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id47">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15525" y="1877" width="2476" height="964"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="15775" y="2578"><tspan fill="rgb(0,0,0)" stroke="none">   </tspan><tspan fill="rgb(0,0,0)" stroke="none">BC1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id48">
+    <rect class="BoundingBox" stroke="none" fill="none" x="3559" y="11800" width="2542" height="1774"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="3809" y="12501"><tspan fill="rgb(0,0,0)" stroke="none">Python</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id49">
+    <rect class="BoundingBox" stroke="none" fill="none" x="11400" y="5600" width="7601" height="2385"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="11650" y="6301"><tspan fill="rgb(0,0,0)" stroke="none">  </tspan><tspan fill="rgb(0,0,0)" stroke="none">Compiler that compiles </tspan></tspan><tspan class="TextPosition" x="11650" y="7012"><tspan fill="rgb(0,0,0)" stroke="none">C++ code into byte code  </tspan></tspan><tspan class="TextPosition" x="11650" y="7723"><tspan fill="rgb(0,0,0)" stroke="none">             BC1   </tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id50">
+    <rect class="BoundingBox" stroke="none" fill="none" x="9400" y="9216" width="10501" height="3585"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9650" y="9917"><tspan fill="rgb(0,0,0)" stroke="none">The biue triangle in the T-diagram </tspan></tspan><tspan class="TextPosition" x="9650" y="10628"><tspan fill="rgb(0,0,0)" stroke="none">of the compiler indicates that the </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9650" y="11339"><tspan fill="rgb(0,0,0)" stroke="none">Compiler is executed     </tspan></tspan></tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>
