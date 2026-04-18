@@ -1,5 +1,5 @@
 # Repository: wikiversity_files
-This repository contains files as Learning Resources in Wikiversity. Some files are language dependent due to text in animations, so the repository has the subdirectory `/de` and `/en` for the german and the english Wikiversity files as [Open Educational Resources](https://en.wikiversity.org/Open_Educational_Resources). Some subdirectories (e.g. `de/Funktionentheorie`) aggregate demo files for courses in Mathematics (e.g. [Funktionentheorie](https://de.wikiversity.org/Kurs:Funktionentheorie) = Complex Analysis)
+This repository contains files as Learning Resources in Wikiversity. Some files are language dependent due to text in animations, so the repository has the subdirectory `/de` and `/en` for the german and the english Wikiversity files as [Open Educational Resources](https://en.wikiversity.org/Open_Educational_Resources). Some subdirectories (e.g. `[de/Funktionentheorie](./de/Funktionentheorie/README.md)`) aggregate demo files for courses in Mathematics (e.g. [Funktionentheorie](https://de.wikiversity.org/Kurs:Funktionentheorie) = Complex Analysis)
 
 
 ## Browse Files
