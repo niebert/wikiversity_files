@@ -28,8 +28,13 @@ for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
 	then
 	echo "WARNING: Ignore '.git' folder for $OUTPUT"
   else
+    path4wiki="$path"
   	echo "DIR: $path"
-  	echo "  <LI><b><a href='$DOMAIN/wiki/$path' target='_blank'>$path</a></b> - $LANGUAGE </LI>" >> $OUTPUT
+	if [ "$path" = "Funktionentheorie" ] then
+	    path4wiki="Kurs:$path"
+		echo "Course Directory for Wikiversity: $path4wiki"
+  	fi
+  	echo "  <LI><b><a href='$DOMAIN/wiki/$path4wiki' target='_blank'>$path</a></b> - $LANGUAGE </LI>" >> $OUTPUT
   	echo "  <UL>" >> $OUTPUT
   	echo "Filepath: $filepath"
   	rm "${filepath}/.DS_Store"
