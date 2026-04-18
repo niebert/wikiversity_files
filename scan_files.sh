@@ -30,7 +30,8 @@ for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d| sort`; do
   else
     path4wiki="$path"
   	echo "DIR: $path"
-	if [ "$path" = "Funktionentheorie" ] then
+	if [ "$path" = "Funktionentheorie" ] 
+	  then
 	    path4wiki="Kurs:$path"
 		echo "Course Directory for Wikiversity: $path4wiki"
   	fi
