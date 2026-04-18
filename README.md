@@ -7,6 +7,12 @@ You can browse the files with at [https://niebert.github.io/wikiversity_files/](
 ## Download all Files as ZIP
 You can download all [files in this repository as ZIP](https://github.com/niebert/wikiversity_files/archive/master.zip) with the URL: https://github.com/niebert/wikiversity_files/archive/master.zip
 
+## Citation of Files in Wikiversity
+The files are cited in Wikiversity with a reference to the file and a reference to the repository:
+    Bert Niehaus (2025) Wikiversity Files for Learning Resources - Laterale Inhibition URL: https://niebert.github.io/wikiversity_files/de/Tabellenkalkulation/laterale_inhibition.ods Repository: https://www.github.com/niebert/wikiversity_files
+
+
+
 ## scan_files.sh
 The Linux script `scan_files.sh` scans all subdirectories of the repository folder and collects all files and creates an `index.html`.
 
